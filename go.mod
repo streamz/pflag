@@ -1,3 +1,3 @@
-module github.com/spf13/pflag
+module github.com/streamz/pflag
 
-go 1.12
+go 1.14
